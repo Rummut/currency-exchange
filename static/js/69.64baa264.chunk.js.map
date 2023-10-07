@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/69.64baa264.chunk.js","mappings":"wJAIA,UAJc,WACZ,OAAO,kCACR,C","sources":["pages/rates.jsx"],"sourcesContent":["const Rates = () => {\n  return <h2>Rates </h2>;\n};\n\nexport default Rates;\n"],"names":[],"sourceRoot":""}
